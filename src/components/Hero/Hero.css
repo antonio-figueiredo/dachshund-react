@@ -1,0 +1,11 @@
+.dog-picture {
+    display: block;
+    margin: 7px auto;
+    width: 50%;
+}
+
+@media (max-width: 768px) {
+  .dog-picture {
+     width: 50%;
+  }
+}
